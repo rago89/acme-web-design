@@ -8,10 +8,8 @@ Make a affordable professional web design to cover low and medium budget compani
 
 - Create the web site
 
--[x] [Wireframe](img/wireframe_acme_page.jpg)
-
+- [ ] [Wireframe](img/wireframe_acme_page.jpg)
 - [ ] Create a development strategy
-
 - [ ] Create the main web page (index.html)
 - [ ] Create the page "About" and "Services" in HTML
 - [ ] Create the CSS style sheet file
