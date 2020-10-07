@@ -3,8 +3,6 @@
 A professional web design Company, created with HTML and CSS.
 
 ## Table of contents
-
-## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [launch](#lauch)
